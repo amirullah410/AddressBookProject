@@ -136,4 +136,3 @@ public class UI extends JPanel {
         frame.setVisible(true);
     }
 }
-
